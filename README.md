@@ -1,9 +1,3 @@
-# Danil Trapeznikov
-
-Senior full-stack engineer building backend platforms, Prisma developer tools, and applied AI products. Creator of [Dee Wan CMS](https://dee-wan.com) and [Bachata](https://github.com/multipliedtwice/bachata-extension).
-
-Based in Bangkok. [LinkedIn](https://www.linkedin.com/in/danil-trapeznikov/) · [Iglu work account](https://github.com/danil-iglu)
-
 ## Work
 
 **Full-Stack Engineer, Iglu** · Dec 2022–Present  
@@ -31,3 +25,5 @@ See the [tool-family map](docs/prisma-tool-family.md) for roles and example link
 
 - [Bachata for VS Code](https://github.com/multipliedtwice/bachata-extension) — alpha workflow extension for AI-assisted coding.
 - [Bachata Browser Bridge](https://github.com/multipliedtwice/bachata-browser-bridge) — browser companion for Bachata workflows.
+
+[LinkedIn](https://shorturl.at/jtCP6) · [Iglu work account](https://github.com/danil-iglu)
