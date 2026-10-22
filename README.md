@@ -5,6 +5,8 @@ Architecting and building [TalentProfile.net](https://talentprofile.net), a mult
 
 Read the [public case study](docs/talentprofile.md).
 
+Built [TalentProfile Autofill](https://autofill.talentprofile.net/), a Chrome extension for application autofill, saved-answer reuse, and local ONNX/WASM inference. [Source](https://github.com/Talentprofile-net/jobs-autofill).
+
 ## Prisma tools
 
 | Tool | Purpose | Reference |
